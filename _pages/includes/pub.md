@@ -1,7 +1,7 @@
 
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-- `AAAI 2025` [Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs](https://arxiv.org/abs/2310.09872), <br> **Jianxiang Yu**, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, Xiang Li, Xuecang Zhang.
+- `AAAI 2025` [Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs](https://arxiv.org/abs/2310.09872), &nbsp; <a href='https://www.bilibili.com/video/BV1rFCjYFEXn/'><img src="https://img.shields.io/badge/Bilibili-LLM4NG-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu**, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, Xiang Li, Xuecang Zhang.
 
 - `KDD 2025` [Variational Graph Autoencoder for Heterogeneous Information Networks with Missing and Inaccurate Attributes](https://arxiv.org/abs/2311.07929), <br> Yige Zhao, **Jianxiang Yu**, Yao Cheng, Chengcheng Yu, Yiding Liu, Xiang Li, Shuaiqiang Wang.
 
