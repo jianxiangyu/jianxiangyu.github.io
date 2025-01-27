@@ -2,7 +2,7 @@
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- `WWW 2025` [Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection](), <br> Long Zeng, Jiapeng Zhu, **Jianxiang Yu**, Qingsong Zhong, Xiang Li
+- `WWW 2025` [Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection](), <br> Long Zeng, **Jianxiang Yu**, Jiapeng Zhu, Qingsong Zhong, Xiang Li
 
 - `AAAI 2025` [Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs](https://arxiv.org/abs/2310.09872), &nbsp; <a href='https://www.bilibili.com/video/BV1rFCjYFEXn/'><img src="https://img.shields.io/badge/Bilibili-LLM4NG-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu**, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, Xiang Li, Xuecang Zhang.
 
