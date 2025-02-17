@@ -61,5 +61,5 @@ My research interests include:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 3.90em;'>
-- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei.png' style='width: 2.90em;'>
+- *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 5em;'>
+- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei.png' style='width: 5em;'>
