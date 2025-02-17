@@ -52,13 +52,14 @@ My research interests include:
 - *2023.11* Second Prize Enterprise Scholarship, School of Data Science and Engineering, East China Normal University
 
 # 📖 Educations
-- *2024.09 - now*    Ph.D. candidate, East China Normal University
-- *2021.09 - 2024.06*   Master, DASE, East China Normal University
-- *2017.09 - 2021.06*   Undergraduate, Honor College, Hangzhou Dianzi University
+- *2024.09 - now*    Ph.D. candidate, East China Normal University  <img src='./images/logos/ecnu.png' style='width: 1.90em;'>
+- *2021.09 - 2024.06*   Master, DASE, East China Normal University <img src='./images/logos/ecnu.png' style='width: 1.90em;'>
+- *2017.09 - 2021.06*   Undergraduate, Honor College, Hangzhou Dianzi University <img src='./images/logos/hdu.png' style='width: 1.90em;'>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China
+- *2024.06 - 2025.02* Ant Group, Shanghai, China <img src='./images/logos/ant_group.png' style='width: 1.90em;'>
+- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China <img src='./images/logos/huawei.png' style='width: 1.90em;'>

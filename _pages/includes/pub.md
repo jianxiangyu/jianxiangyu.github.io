@@ -12,6 +12,22 @@
 
 - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li.
 
+<!-- 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/publications/SEA.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857) <span style="color:orange">[CCF-B]</span> [![](https://img.shields.io/github/stars/ecnu-sea/SEA?style=social&label=Code+Stars)](https://github.com/ecnu-sea/SEA) <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> \\
+Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. 
+
+- Check demos at [**Our Website**](https://ecnu-sea.github.io/). 🌐
+- An innovative framework for automating peer review. 🌊
+
+</div>
+</div> -->
+
 - `ECML PKDD 2024` [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2), <br> ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu.
 
 - `TKDE 2024` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/-AdaMEOW-blue?logo=bilibili&logoColor=white&labelColor=gray"></a> <br> **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou.
