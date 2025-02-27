@@ -14,6 +14,18 @@ Recent Advances and Future Directions](https://arxiv.org/abs/2401.09769), <br> C
 - `KDD 2025` [RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](https://arxiv.org/abs/2408.03195), <br> Jiapeng Zhu, Zichen Ding, **Jianxiang Yu**, Jiaqi Tan, Xiang Li.
 
 - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li.
+
+- `ECML PKDD 2024` [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2), <br> ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu.
+
+- `TKDE 2024` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/-AdaMEOW-blue?logo=bilibili&logoColor=white&labelColor=gray"></a> <br> **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou.
+
+- `SDM 2023` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), &nbsp; <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu**, Xiang Li.
+
+- `ICKG 2023` [Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), <br> Zhihui Zhang, **Jianxiang Yu**, Xiang Li.
+
+More preprints under review will be released soon, and some papers can be found on Google Scholar. 📚✨🔍
+
+
 <!-- 
 </div>
 </div>
@@ -25,13 +37,3 @@ Jianxiang Yu\*, **Zichen Ding\***, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chengh
 - An innovative framework for automating peer review. 🌊
 </div>
 </div> -->
-
-- `ECML PKDD 2024` [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362v2), <br> ChengHua Gong, Xiang Li, **Jianxiang Yu**, Yao Cheng, Jiaqi Tan, Chengcheng Yu.
-
-- `TKDE 2024` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/-AdaMEOW-blue?logo=bilibili&logoColor=white&labelColor=gray"></a> <br> **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou.
-
-- `SDM 2023` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Weighted Negative Samples](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), &nbsp; <a href='https://www.bilibili.com/video/BV1Eu411a7RR/'><img src="https://img.shields.io/badge/Bilibili-MEOW-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu**, Xiang Li.
-
-- `ICKG 2023` [Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), <br> Zhihui Zhang, **Jianxiang Yu**, Xiang Li.
-
-More preprints under review will be released soon, and some papers can be found on Google Scholar. 📚✨🔍
