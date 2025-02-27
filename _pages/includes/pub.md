@@ -2,7 +2,7 @@
 # 📝 Publications  <a href='https://scholar.google.com/citations?user=EH6ntM0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
-- `Frontiers of Computer Science 2025` [A Survey on Learning from Graphs with Heterophily:
+- `FCS 2025` [A Survey on Learning from Graphs with Heterophily:
 Recent Advances and Future Directions](https://arxiv.org/abs/2401.09769), <br> Chenghua Gong, Yao Cheng, **Jianxiang Yu**, Can Xu, Caihua Shan, Siqiang Luo, Xiang Li
 
 - `WWW 2025` [Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection](), <br> Long Zeng, **Jianxiang Yu**, Jiapeng Zhu, Qingsong Zhong, Xiang Li
