@@ -41,6 +41,54 @@ My research interests include:
 {% include_relative includes/pub.md %}
 
 
+# 📑 Preprint
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">TKDE 2024</div> -->
+<img src='../../images/publications/reef.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Relation-Aware Graph Foundation Model](https://arxiv.org/abs/2505.12027) &nbsp; 
+<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
+\\
+**Jianxiang Yu**, Jiapeng Zhu, Hao Qian, Ziqi Liu, Zhiqiang Zhang, Xiang Li.
+- A relation-aware pre-training framework for graph foundation models. ⚙️
+- Robust generalization and effective transferability. 💪
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">TKDE 2024</div> -->
+<img src='../../images/publications/seagraph.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SEAGraph: Unveiling the Whole Story of Paper Review Comments](https://arxiv.org/abs/2412.11939) &nbsp; 
+<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
+\\
+**Jianxiang Yu\***, **Jiaqi Tan\***, Zichen Ding, Jiapeng Zhu, Jiaqi Li, Yao Cheng, Qier Cui, Yunshi Lan, Yao Liu, Xiang Li. 
+
+- Constructing Semantic Mind Graphs and Hierarchical Background Graphs to simulate reviewer thinking. 🧠
+- Retrieving with GraphRAG to unevil review comments. 📚
+</div>
+</div>
+
+
+
+- [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](), <br>
+Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
+
+- [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
+  Hanqi Duan, Yao Cheng, **Jianxiang Yu**, Xiang Li. 
+
+- [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](https://arxiv.org/abs/2407.19941), <br>
+  Yao Cheng, Jiapeng Zhu, **Jianxiang Yu**, Xiang Li. 
+
+- [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
+  Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
+
+- [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
+  Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li. 
+
+
+
 # 🌟 Experience
 
 - *2024.11* Attend EMNLP 2024 in Miami, USA.
