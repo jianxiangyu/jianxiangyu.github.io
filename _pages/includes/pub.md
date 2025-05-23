@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/stars/jianxiangyu/LLM4NG?style=social&label=Code+Stars)](https://github.com/jianxiangyu/LLM4NG) &nbsp; <a href='https://www.bilibili.com/video/BV1rFCjYFEXn/'><img src="https://img.shields.io/badge/Bilibili-LLM4NG-blue?logo=bilibili&logoColor=white"></a> \\
 **Jianxiang Yu**, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, Xiang Li, Xuecang Zhang.
 - First to leverage LLMs for node generation in graph learning. 🔍
-- Plug-and-play, lightweight framework with minimal overhead with minimal overhead. 🚀
+- A plug-and-play, lightweight framework with minimal overhead with minimal overhead. 🚀
 </div>
 </div>
 
