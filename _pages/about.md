@@ -87,6 +87,11 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
   Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li. 
 
+# 💻 Internships
+- *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 4em;'>
+- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei1.png' style='width: 1.9em;'>
+
+
 
 
 # 🌟 Experience
@@ -104,10 +109,11 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 - *2021.09 - 2024.06*   Master, DASE, East China Normal University &nbsp; <img src='./images/logos/ecnu.png' style='width: 1.90em;'>
 - *2017.09 - 2021.06*   Undergraduate, Honor College, Hangzhou Dianzi University &nbsp; <img src='./images/logos/hdu.png' style='width: 1.90em;'>
 
+# 🔍 Services
+- I serve(d) as a reviewer / program committee member for the following conferences:
+  - AAAI 2026 Main Conference, KDD 2026 Datasets and Benchmark Track, AAAI 2026 AI Alignment Track, 
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 4em;'>
-- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei1.png' style='width: 1.9em;'>
