@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING lab.
+I am currently a second-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING lab.
 
 My research interests include:
 - **Data mining:** graph neural networks, heterogeneous graph mining;
@@ -78,9 +78,6 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 - [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
   Hanqi Duan, Yao Cheng, **Jianxiang Yu**, Xiang Li. 
 
-- [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](https://arxiv.org/abs/2407.19941), <br>
-  Yao Cheng, Jiapeng Zhu, **Jianxiang Yu**, Xiang Li. 
-
 - [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
   Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
 
@@ -90,7 +87,6 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 # 💻 Internships
 - *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 4em;'>
 - *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei1.png' style='width: 1.9em;'>
-
 
 
 

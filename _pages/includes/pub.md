@@ -34,13 +34,17 @@
 [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\
 **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou.
 - Coarse and fine-grained views for HIN contrastive learning. 🐾
-- Gradient-based InfoNCE analysis & weighted contrastive loss design. 🎯
+- Gradient-based InfoNCE analysis and weighted contrastive loss design. 🎯
 </div>
 </div>
 
 <!-- - `TKDE 2024` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/-AdaMEOW-blue?logo=bilibili&logoColor=white&labelColor=gray"></a> <br> **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou. -->
 
 <!-- - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. -->
+
+- `FCS 2025` [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](https://arxiv.org/abs/2407.19941), <br>
+  Yao Cheng, Jiapeng Zhu, Yige Zhao, **Jianxiang Yu**, Xiang Li. 
+
 
 - `FCS 2025` [A Survey on Learning from Graphs with Heterophily:
 Recent Advances and Future Directions](https://arxiv.org/abs/2401.09769), <br> Chenghua Gong, Yao Cheng, **Jianxiang Yu**, Can Xu, Caihua Shan, Siqiang Luo, Xiang Li
