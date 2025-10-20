@@ -85,6 +85,7 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
   Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li. 
 
 # 💻 Internships
+- *2025.10 - now* WXG, Weixin, GuangZhou, China &nbsp; <img src='./images/logos/weixin.png' style='width: 4em;'>
 - *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 4em;'>
 - *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei1.png' style='width: 1.9em;'>
 
