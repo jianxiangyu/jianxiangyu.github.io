@@ -42,6 +42,11 @@
 
 <!-- - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. -->
 
+
+- `EMNLP 2025` [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
+  Hanqi Duan, Yao Cheng, **Jianxiang Yu**, Yao Liu, Xiang Li. 
+
+
 - `FCS 2025` [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](https://arxiv.org/abs/2407.19941), <br>
   Yao Cheng, Jiapeng Zhu, Yige Zhao, **Jianxiang Yu**, Xiang Li. 
 
