@@ -56,20 +56,6 @@ My research interests include:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">TKDE 2024</div> -->
-<img src='../../images/publications/seagraph.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-[SEAGraph: Unveiling the Whole Story of Paper Review Comments](https://arxiv.org/abs/2412.11939) &nbsp; 
-<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
-\\
-**Jianxiang Yu\***, **Jiaqi Tan\***, Zichen Ding, Jiapeng Zhu, Jiaqi Li, Yao Cheng, Qier Cui, Yunshi Lan, Yao Liu, Xiang Li. 
-
-- Constructing Semantic Mind Graphs and Hierarchical Background Graphs to simulate reviewer thinking. 🧠
-- Retrieving with GraphRAG to unevil review comments. 📚
-</div>
-</div>
-
 
 
 - [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](), <br>
