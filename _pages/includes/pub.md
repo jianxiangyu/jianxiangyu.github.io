@@ -38,10 +38,27 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">IJCNLP-AACL 2025</div>
+<img src='../../images/publications/seagraph.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SEAGraph: Unveiling the Whole Story of Paper Review Comments](https://arxiv.org/abs/2412.11939) &nbsp; 
+<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
+\\
+**Jianxiang Yu\***, **Jiaqi Tan\***, Zichen Ding, Jiapeng Zhu, Jiaqi Li, Yao Cheng, Qier Cui, Yunshi Lan, Yao Liu, Xiang Li. 
+
+- Constructing Semantic Mind Graphs and Hierarchical Background Graphs to simulate reviewer thinking. 🧠
+- Retrieving with GraphRAG to unevil review comments. 📚
+</div>
+</div>
+
 <!-- - `TKDE 2024` [Heterogeneous Graph Contrastive Learning with Meta-path Contexts and Adaptively Weighted Negative Samples](https://ieeexplore.ieee.org/abstract/document/10487103), &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/-AdaMEOW-blue?logo=bilibili&logoColor=white&labelColor=gray"></a> <br> **Jianxiang Yu**, Qingqing Ge, Xiang Li, Aoying Zhou. -->
 
 <!-- - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. -->
 
+- `NIPS 2025 workshop` [Diffusion-augmented Graph Contrastive Learning for
+Collaborative Filtering](https://openreview.net/pdf/4f82b16fe3fd9412e502a57b55098955067b185a.pdf), <br>
+  Fan Huang, **Jianxiang Yu**, Wei Wang.
 
 - `EMNLP 2025` [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
   Hanqi Duan, Yao Cheng, **Jianxiang Yu**, Yao Liu, Xiang Li. 
