@@ -57,7 +57,6 @@ My research interests include:
 </div>
 
 
-
 - [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](), <br>
 Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 
