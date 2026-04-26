@@ -17,18 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University, under the supervision of [Prof. Xiang Li](https://lixiang3776.github.io/) in the PLANING lab.
+<section class="home-hero" markdown="1">
+<p class="hero-lead">I am currently a second-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My previous work mainly focused on graph data mining, including graph neural networks and heterogeneous graph mining. I am currently exploring several directions around graph learning and large language models, including their integration, graph foundation models, and LLM applications in scientific research.</p>
 
-My research interests include:
-- **Data mining:** graph neural networks, heterogeneous graph mining;
-- **Large Language Models:** applications in scientific research, knowledge editing;
-- **Combination of GNNs and LLMs:** graph foundation models, graph prompt learning.
+<div class="hero-focus" markdown="1">
+<div class="hero-section-label">Research Interests</div>
+
+- **Data mining:** graph neural networks, heterogeneous graph mining
+- **Large Language Models:** applications in scientific research, knowledge editing
+- **Combination of GNNs and LLMs:** graph foundation models, graph prompt learning
+</div>
+
+<p class="hero-contact">🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!</p>
+</section>
+
 <!-- My research interests include data mining, especially graph mining. The research work I have been involved in encompasses heterogeneous graph mining and weakly supervised learning on graphs. -->
 <!-- Currently I am exploring the integration of Large Language Models (LLMs) with Graph Neural Networks (GNNs). -->
 
 <!-- https://scholar.google.com.hk/citations?user=EH6ntM0AAAAJ&hl=zh-CN&oi=ao -->
-
-🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!
 
 <!-- 🎉✨🎆 Let’s welcome the New Year together! -->
 
@@ -40,6 +46,8 @@ My research interests include:
 
 {% include_relative includes/pub.md %}
 
+
+<span class='anchor' id='preprint'></span>
 
 # 📑 Preprint
 
@@ -57,6 +65,7 @@ My research interests include:
 </div>
 
 
+<div class="text-list" markdown="1">
 - [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](), <br>
 Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 
@@ -65,32 +74,95 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 
 - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
   Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li. 
+</div>
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2025.10 - now* Tencent WeChat business group, Guangzhou, China (Participated in Tencent Rhinoceros-Bird Program) &nbsp; <img src='./images/logos/weixin.png' style='width: 2em;'>
-- *2024.06 - 2025.02* Ant Group, Shanghai, China &nbsp; <img src='./images/logos/ant_group.png' style='width: 4em;'>
-- *2023.07 - 2023.12* Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China &nbsp; <img src='./images/logos/huawei1.png' style='width: 1.9em;'>
+<div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-date">2025.10 - now</div>
+    <div class="internship-body">
+      <span>Tencent WeChat business group, Guangzhou, China (Participated in Tencent Rhinoceros-Bird Program)</span>
+      <img src="./images/logos/weixin.png" alt="WeChat logo">
+    </div>
+  </div>
+  <div class="internship-item">
+    <div class="internship-date">2024.06 - 2025.02</div>
+    <div class="internship-body">
+      <span>Ant Group, Shanghai, China</span>
+      <img src="./images/logos/ant_group.png" alt="Ant Group logo">
+    </div>
+  </div>
+  <div class="internship-item">
+    <div class="internship-date">2023.07 - 2023.12</div>
+    <div class="internship-body">
+      <span>Advance Computing and Storage Lab, 2012 Labs, Huawei Technologies, Shanghai, China</span>
+      <img src="./images/logos/huawei1.png" alt="Huawei logo">
+    </div>
+  </div>
+</div>
 
 
+
+<span class='anchor' id='experience'></span>
 
 # 🌟 Experience
-
+<div class="timeline-list timeline-list--dated" markdown="1">
 - *2024.11* Attend EMNLP 2024 in Miami, USA.
 - *2024.10* Give a talk at EMNLP 2024 pre-presentation event organized by AI TIME.
+</div>
 
+
+<span class='anchor' id='honors'></span>
 
 # 🎖 Honors and Awards
+<div class="timeline-list timeline-list--dated" markdown="1">
 - *2024.05* Outstanding Graduate, East China Normal University
 - *2023.11* Second Prize Enterprise Scholarship, School of Data Science and Engineering, East China Normal University
+</div>
 
-# 📖 Educations
-- *2024.09 - now*    Ph.D. candidate, East China Normal University &nbsp; <img src='./images/logos/ecnu.png' style='width: 1.90em;'>
-- *2021.09 - 2024.06*   Master, DASE, East China Normal University &nbsp; <img src='./images/logos/ecnu.png' style='width: 1.90em;'>
-- *2017.09 - 2021.06*   Undergraduate, Honor College, Hangzhou Dianzi University &nbsp; <img src='./images/logos/hdu.png' style='width: 1.90em;'>
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-date">2024.09 - now</div>
+    <div class="education-body">
+      <strong>Ph.D. Student</strong>
+      <span>School of Data Science and Engineering, East China Normal University</span>
+      <img src="./images/logos/ecnu.png" alt="East China Normal University logo">
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-date">2021.09 - 2024.06</div>
+    <div class="education-body">
+      <strong>Master</strong>
+      <span>School of Data Science and Engineering, East China Normal University</span>
+      <img src="./images/logos/ecnu.png" alt="East China Normal University logo">
+    </div>
+  </div>
+  <div class="education-item">
+    <div class="education-date">2017.09 - 2021.06</div>
+    <div class="education-body">
+      <strong>Undergraduate</strong>
+      <span>Honor College, Hangzhou Dianzi University</span>
+      <img src="./images/logos/hdu.png" alt="Hangzhou Dianzi University logo">
+    </div>
+  </div>
+</div>
+
+<span class='anchor' id='services'></span>
 
 # 🔍 Services
-- I serve(d) as a reviewer / program committee member for the following conferences:
-  - AAAI 2026 Main Conference, KDD 2026 Datasets and Benchmark Track, AAAI 2026 AI Alignment Track, 
+<div class="timeline-list services-list" markdown="1">
+I have served as a reviewer or program committee member for:
+
+- ICML 2026
+- AAAI 2026 Main Conference
+- KDD 2026 Datasets and Benchmark Track
+- AAAI 2026 AI Alignment Track
+</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -56,6 +56,8 @@
 
 <!-- - `EMNLP 2024` [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](https://arxiv.org/abs/2407.12857), &nbsp; <a href='https://www.bilibili.com/video/BV1EFCZY3E5j/'><img src="https://img.shields.io/badge/Bilibili-SEA-blue?logo=bilibili&logoColor=white"></a> <br> **Jianxiang Yu\***, Zichen Ding\*, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, Renjing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. -->
 
+<div class="text-list" markdown="1">
+
 - `NeurIPS 2025 workshop` [Diffusion-augmented Graph Contrastive Learning for
 Collaborative Filtering](https://openreview.net/pdf/4f82b16fe3fd9412e502a57b55098955067b185a.pdf), <br>
   Fan Huang, **Jianxiang Yu**, Wei Wang.
@@ -87,6 +89,8 @@ Recent Advances and Future Directions](https://arxiv.org/abs/2401.09769), <br> C
 - `ICKG 2023` [Context-Aware Session-Based Recommendation with Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/10412788), <br> Zhihui Zhang, **Jianxiang Yu**, Xiang Li.
 
 More preprints under review will be released soon, and some papers can be found on Google Scholar. 📚✨🔍
+
+</div>
 
 
 <!-- 
