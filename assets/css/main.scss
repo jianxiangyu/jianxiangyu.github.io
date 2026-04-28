@@ -322,6 +322,7 @@ h1:before, .anchor:before {
     border-radius: 999px;
     box-shadow: 0 8px 18px rgba(34, 75, 141, 0.28);
     color: white;
+    font-family: $global-font-family;
     font-size: .76em;
     font-weight: 800;
     letter-spacing: 0.02em;
@@ -462,6 +463,18 @@ h1:before, .anchor:before {
         color: $homepage-accent;
         text-decoration-thickness: 0.08em;
         text-underline-offset: 0.16em;
+    }
+
+    code {
+        background: linear-gradient(135deg, $homepage-accent, $homepage-accent-strong);
+        border-radius: 4px;
+        color: white;
+        font-family: $global-font-family;
+        font-size: 0.78em;
+        font-weight: 800;
+        letter-spacing: 0.02em;
+        padding: 0.08em 0.36em;
+        white-space: nowrap;
     }
 }
 
