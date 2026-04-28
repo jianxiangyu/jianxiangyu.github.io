@@ -450,6 +450,7 @@ h1:before, .anchor:before {
     }
 
     li {
+        color: $homepage-muted;
         margin-bottom: 0.92em;
         padding-bottom: 0;
         padding-top: 0;
@@ -463,6 +464,20 @@ h1:before, .anchor:before {
         color: $homepage-accent;
         text-decoration-thickness: 0.08em;
         text-underline-offset: 0.16em;
+    }
+
+    li > a {
+        color: $homepage-ink;
+        font-weight: 800;
+        text-decoration: none;
+
+        &:hover {
+            color: $homepage-accent;
+        }
+    }
+
+    strong {
+        color: $homepage-ink;
     }
 
     code {
