@@ -81,9 +81,9 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 # 💻 Internships
 <div class="internship-list">
   <div class="internship-item">
-    <div class="internship-date">2025.10 - now</div>
+    <div class="internship-date">2025.10 - 2026.06</div>
     <div class="internship-body">
-      <span>Tencent WeChat business group, Guangzhou, China (Participated in Tencent Rhinoceros-Bird Program)</span>
+      <span>Tencent WeChat group, Guangzhou, China (Participated in Tencent Rhinoceros-Bird Program)</span>
       <img src="./images/logos/weixin.png" alt="WeChat logo">
     </div>
   </div>
