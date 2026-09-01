@@ -2,7 +2,6 @@
 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='../../images/publications/llm4ng.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Leveraging Large Language Models for Node Generation in Few-Shot Learning on Text-Attributed Graphs](https://arxiv.org/abs/2310.09872) &nbsp; 
@@ -58,17 +57,30 @@
 
 <div class="text-list" markdown="1">
 
+- `EMNLP 2026` [Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning](https://arxiv.org/abs/2605.28424), <br>
+Jiapeng Zhu, **Jianxiang Yu**, Yibo Zhao, Chengcheng Han, Qi GU, Xunliang Cai, Xiang Li, Weining Qian.
+
+- `EMNLP 2026` [Node-to-Neighborhood Semantic Consistency: Text-Topology Alignment for TAGs Anomaly Detection](https://arxiv.org/abs/2606.30009), <br>
+Bochen Lin, **Jianxiang Yu**, Jiayi Wu, Lin Qi, Huang Lu, Xiang Li
+
+- `EMNLP 2026` [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](https://arxiv.org/abs/2505.22184), <br>
+Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
+
+- `EMNLP 2026` [Beyond Chunk-Local Extraction: Cross-Chunk Graph Augmentation for GraphRAG](https://arxiv.org/abs/2605.28004), <br>
+Jiaming Zhang, Yibo Zhao, Jing Yu, **Jianxiang Yu**, Xiang Li
+
+- `EMNLP 2026` [APEX: Academic Poster Editing Agentic Expert](https://arxiv.org/abs/2601.04794), <br> 
+Chengxin Shi, Qinnan Cai, Zeyuan Chen, Long Zeng, Yibo Zhao, Jing Yu, **Jianxiang Yu**, Xiang Li, <br>
+
 - `NeurIPS 2025 workshop` [Diffusion-augmented Graph Contrastive Learning for
 Collaborative Filtering](https://openreview.net/pdf/4f82b16fe3fd9412e502a57b55098955067b185a.pdf), <br>
   Fan Huang, **Jianxiang Yu**, Wei Wang.
 
-- `EMNLP 2025` [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
+- `EMNLP 2025 main` [Can Large Language Models Act as Ensembler for Multi-GNNs?](https://arxiv.org/abs/2410.16822), <br>
   Hanqi Duan, Yao Cheng, **Jianxiang Yu**, Yao Liu, Xiang Li. 
-
 
 - `FCS 2025` [Boosting Cross-Domain and Cross-Task Generalization for Text-Attributed Graphs from Structural Perspective](https://arxiv.org/abs/2407.19941), <br>
   Yao Cheng, Jiapeng Zhu, Yige Zhao, **Jianxiang Yu**, Xiang Li. 
-
 
 - `FCS 2025` [A Survey on Learning from Graphs with Heterophily:
 Recent Advances and Future Directions](https://arxiv.org/abs/2401.09769), <br> Chenghua Gong, Yao Cheng, **Jianxiang Yu**, Can Xu, Caihua Shan, Siqiang Luo, Xiang Li

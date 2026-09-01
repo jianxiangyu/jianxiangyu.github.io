@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <section class="home-hero" markdown="1">
-<p class="hero-lead">I am currently a second-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My previous work mainly focused on graph data mining, including graph neural networks and heterogeneous graph mining. I am currently exploring several directions around graph learning and large language models, including their integration, graph foundation models, and LLM applications in scientific research.</p>
+<p class="hero-lead">I am currently a third-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My previous work mainly focused on graph data mining, including graph neural networks and heterogeneous graph mining. I am currently exploring several directions around graph learning and large language models, including their integration, graph foundation models, and LLM applications in scientific research.</p>
 
 <div class="hero-focus" markdown="1">
 <div class="hero-section-label">Research Interests</div>
@@ -66,9 +66,6 @@ redirect_from:
 
 
 <div class="text-list" markdown="1">
-- [Breaking the Cloak! Unveiling Chinese Cloaked Toxicity with Homophone Graph and Toxic Lexicon](), <br>
-Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
-
 - [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
   Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
 
@@ -80,6 +77,13 @@ Xuchen Ma, **Jianxiang Yu**, Wenming Shao, Bo Pang, Xiang Li.
 
 # 💻 Internships
 <div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-date">2026.09 - now </div>
+    <div class="internship-body">
+      <span> Baidu AI Cloud, Agent Policy Group, Beijing, China</span>
+      <img src="./images/logos/baidu.png" alt="Baidu logo">
+    </div>
+  </div>
   <div class="internship-item">
     <div class="internship-date">2025.10 - 2026.06</div>
     <div class="internship-body">
