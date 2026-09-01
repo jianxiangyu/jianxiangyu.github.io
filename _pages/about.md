@@ -23,9 +23,11 @@ redirect_from:
 <div class="hero-focus" markdown="1">
 <div class="hero-section-label">Research Interests</div>
 
-- **Data mining:** graph neural networks, heterogeneous graph mining
-- **Large Language Models:** applications in scientific research, knowledge editing
-- **Combination of GNNs and LLMs:** graph foundation models, graph prompt learning
+- **Graph Data Mining:** graph neural networks, heterogeneous graph mining
+- **LLM Agents:** agent skills, model-skill alignment, agentic routing
+- **LLM for Science:** scientific applications of large language models
+- **Integration of GNNs and LLMs:** graph foundation models, graph prompt learning
+
 </div>
 
 <p class="hero-contact">🎉🎉🎉 Feel free to reach out to me for academic discussions and collaborations!</p>
@@ -66,11 +68,45 @@ redirect_from:
 
 
 <div class="text-list" markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">TKDE 2024</div> -->
+<img src='../../images/publications/masa.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Skill is Not One-Size-Fits-All: Model-Aware Skill Alignment for LLM Agents](https://arxiv.org/abs/2605.30723) &nbsp; 
+<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
+\\
+**Jianxiang Yu**, Jiapeng Zhu, Bochen Lin, Qier Cui, Zichen Ding, Xiang Li
+- A model-aware skill alignment framework for LLM agents. ⚙️
+- Effective adaptation and generalization across models and tasks. 💪
+</div>
+</div>
+
+
+- [Role-GAD: Role-Aware Graph Anomaly Detection via Dual-Codebook Vector Quantization](), <br>
+**Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<!-- <div class="badge">TKDE 2024</div>-->
+<img src='../../images/publications/role_gad.png' alt="sym" width="98%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Role-GAD: Role-Aware Graph Anomaly Detection via Dual-Codebook Vector Quantization,]() &nbsp; 
+<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
+\\
+**Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
+- A role-aware framework for graph anomaly detection via dual-codebook vector quantization. ⚙️
+- Capturing heterogeneous anomaly patterns through discrete semantic and interaction roles. 🔍
+- Superior detection performance with efficient graph reasoning. 🚀
+</div>
+</div>
+
+
+
 - [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
   Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
 
-- [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
-  Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li. 
+<!-- - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
+  Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li.  -->
 </div>
 
 <span class='anchor' id='internships'></span>
