@@ -54,7 +54,6 @@ redirect_from:
 # 📑 Preprint
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">TKDE 2024</div> -->
 <img src='../../images/publications/reef.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Relation-Aware Graph Foundation Model](https://arxiv.org/abs/2505.12027) &nbsp; 
@@ -67,36 +66,28 @@ redirect_from:
 </div>
 
 
-<div class="text-list" markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">TKDE 2024</div> -->
 <img src='../../images/publications/masa.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Skill is Not One-Size-Fits-All: Model-Aware Skill Alignment for LLM Agents](https://arxiv.org/abs/2605.30723) &nbsp; 
 <!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
 \\
-**Jianxiang Yu**, Jiapeng Zhu, Bochen Lin, Qier Cui, Zichen Ding, Xiang Li
-- A model-aware skill alignment framework for LLM agents. ⚙️
-- Effective adaptation and generalization across models and tasks. 💪
+**Jianxiang Yu**, Jiapeng Zhu, Bochen Lin, Qier Cui, Zichen Ding, Xiang Li.
+- A model-aware skill alignment framework for LLM agents. 🧩
+- Effective adaptation and generalization across models and tasks.  🔄
 </div>
 </div>
 
-
-- [Role-GAD: Role-Aware Graph Anomaly Detection via Dual-Codebook Vector Quantization](), <br>
-**Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<!-- <div class="badge">TKDE 2024</div>-->
 <img src='../../images/publications/role_gad.png' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Role-GAD: Role-Aware Graph Anomaly Detection via Dual-Codebook Vector Quantization,]() &nbsp; 
 <!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
 \\
 **Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
-- A role-aware framework for graph anomaly detection via dual-codebook vector quantization. ⚙️
+- A role-aware framework for graph anomaly detection via dual-codebook vector quantization. 🛠️
 - Capturing heterogeneous anomaly patterns through discrete semantic and interaction roles. 🔍
-- Superior detection performance with efficient graph reasoning. 🚀
 </div>
 </div>
 
