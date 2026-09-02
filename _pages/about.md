@@ -24,7 +24,7 @@ redirect_from:
 <div class="hero-section-label">Research Interests</div>
 
 - **Graph Data Mining:** graph neural networks, heterogeneous graph mining
-- **LLM Agents:** agent skills, model-skill alignment, agentic routing
+- **LLM Agents:** agent skills, agentic routing, agentic RL
 - **LLM for Science:** scientific applications of large language models
 - **Integration of GNNs and LLMs:** graph foundation models, graph prompt learning
 
