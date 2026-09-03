@@ -98,7 +98,6 @@ redirect_from:
 
 <!-- - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
   Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li.  -->
-</div>
 
 <span class='anchor' id='internships'></span>
 
