@@ -53,18 +53,6 @@ redirect_from:
 
 # 📑 Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<img src='../../images/publications/reef.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Relation-Aware Graph Foundation Model](https://arxiv.org/abs/2505.12027) &nbsp; 
-<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
-\\
-**Jianxiang Yu**, Jiapeng Zhu, Hao Qian, Ziqi Liu, Zhiqiang Zhang, Xiang Li.
-- A relation-aware pre-training framework for graph foundation models. ⚙️
-- Robust generalization and effective transferability. 💪
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='../../images/publications/masa.png' alt="sym" width="98%"></div></div>
