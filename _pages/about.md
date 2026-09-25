@@ -178,10 +178,11 @@ redirect_from:
 <div class="timeline-list services-list" markdown="1">
 I have served as a reviewer or program committee member for:
 
+- AAAI 2027
+- NeurIPS 2026
 - ICML 2026
-- AAAI 2026 Main Conference
+- AAAI 2026
 - KDD 2026 Datasets and Benchmark Track
-- AAAI 2026 AI Alignment Track
 </div>
 
 <!-- # 💬 Invited Talks
