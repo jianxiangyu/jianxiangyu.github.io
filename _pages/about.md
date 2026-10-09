@@ -22,6 +22,25 @@ redirect_from:
 
 <p class="hero-lead">I am currently an intern at Baidu AI Cloud in the Agent Policy Group in Beijing. Previously, I interned at Tencent WeChat in Guangzhou through the Tencent Rhinoceros-Bird Program, at Ant Group in Shanghai, and at Huawei's 2012 Labs (Advance Computing and Storage Lab) in Shanghai.</p>
 
+
+<p class="hero-lead">
+  I am currently an intern at
+  <img src="./images/logos/baidu.png" class="company-logo" alt="Baidu">
+  <strong>Baidu AI Cloud</strong>
+  (Agent Policy Group, Beijing).
+  Previously, I interned at
+  <img src="./images/logos/weixin.png" class="company-logo" alt="Tencent">
+  <strong>Tencent WeChat</strong>
+  (Guangzhou, Tencent Rhinoceros-Bird Program),
+  <img src="./images/logos/ant_group.png" class="company-logo" alt="Ant Group">
+  <strong>Ant Group</strong> (Shanghai), and
+  <img src="./images/logos/huawei1.png" class="company-logo" alt="Huawei">
+  <strong>Huawei 2012 Labs</strong>
+
+  (Advanced Computing and Storage Lab, Shanghai).
+
+</p>
+
 <div class="hero-focus" markdown="1">
 <div class="hero-section-label">Research Interests</div>
 
