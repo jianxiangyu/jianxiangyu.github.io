@@ -178,11 +178,16 @@ redirect_from:
 <div class="timeline-list services-list" markdown="1">
 I have served as a reviewer or program committee member for:
 
-- AAAI 2027
-- NeurIPS 2026
-- ICML 2026
-- AAAI 2026
-- KDD 2026 Datasets and Benchmark Track
+- **Conferences:** ICLR'27, AAAI'27, NeurIPS'26, ICML'26, AAAI'26 (Main & AI Alignment), KDD'26 (Datasets & Benchmarks).
+
+- **Journals:** JAS, IEEE TKDE.
+
+
+<!-- - AAAI 2027 -->
+<!-- - NeurIPS 2026 -->
+<!-- - ICML 2026 -->
+<!-- - AAAI 2026 -->
+<!-- - KDD 2026 Datasets and Benchmark Track -->
 </div>
 
 <!-- # 💬 Invited Talks
