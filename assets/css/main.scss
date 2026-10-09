@@ -667,39 +667,23 @@ h1:before, .anchor:before {
 }
 
 .hero-lead .company-inline {
-
     display: inline-flex;
-  
     align-items: center;
-  
     gap: 5px;
-  
     vertical-align: middle;
-  
     white-space: nowrap;
-  
   }
   
   .hero-lead .company-logo {
-  
     display: inline-block !important;
-  
     width: 22px !important;
-  
     height: 22px !important;
-  
     max-width: 22px !important;
-  
     max-height: 22px !important;
-  
     object-fit: contain;
-  
     flex-shrink: 0;
-  
   }
   
   .hero-lead .company-inline strong {
-  
     font-weight: 600;
-  
   }

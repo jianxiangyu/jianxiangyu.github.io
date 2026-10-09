@@ -32,7 +32,7 @@ redirect_from:
   <img src="./images/logos/weixin.png" class="company-logo" alt="Tencent">
   <strong>Tencent WeChat</strong>
   (Guangzhou, Tencent Rhinoceros-Bird Program),
-  <img src="./images/logos/ant_group.png" class="company-logo" alt="Ant Group">
+  <img src="./images/logos/ant_group1.png" class="company-logo" alt="Ant Group">
   <strong>Ant Group</strong> (Shanghai), and
   <img src="./images/logos/huawei1.png" class="company-logo" alt="Huawei">
   <strong>Huawei 2012 Labs</strong>
