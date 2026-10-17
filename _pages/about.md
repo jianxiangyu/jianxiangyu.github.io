@@ -20,7 +20,7 @@ redirect_from:
 <section class="home-hero" markdown="1">
 <p class="hero-lead">I am currently a third-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My previous work mainly focused on graph data mining, including graph neural networks and heterogeneous graph mining. I am currently exploring several directions around graph learning and large language models, including their integration, graph foundation models, and LLM applications in scientific research.</p>
 
-<p class="hero-lead">I am currently an intern at Baidu AI Cloud in the Agent Policy Group in Beijing. Previously, I interned at Tencent WeChat in Guangzhou through the Tencent Rhinoceros-Bird Program, at Ant Group in Shanghai, and at Huawei's 2012 Labs (Advance Computing and Storage Lab) in Shanghai.</p>
+<p class="hero-lead">I am currently an intern at Baidu AI Cloud in the Agent Strategy Group in Beijing. Previously, I interned at Tencent WeChat in Guangzhou through the Tencent Rhinoceros-Bird Program, at Ant Group in Shanghai, and at Huawei's 2012 Labs (Advance Computing and Storage Lab) in Shanghai.</p>
 
 
 <p class="hero-lead">
@@ -112,11 +112,12 @@ redirect_from:
 
 # 💻 Internships
 <div class="internship-list">
-  <div class="internship-item">
-    <div class="internship-date">2026.09 - now </div>
+ <div class="internship-item">
+    <div class="internship-date">2026.09 - Present</div>
     <div class="internship-body">
-      <span> Baidu AI Cloud, Agent Policy Group, Beijing, China</span>
+      <span>Baidu AI Cloud, Dumate Strategy Group, Beijing, China</span>
       <img src="./images/logos/baidu.png" alt="Baidu logo">
+      <img src="./images/logos/dumate-icon.png" alt="Dumate logo">
     </div>
   </div>
   <div class="internship-item">
