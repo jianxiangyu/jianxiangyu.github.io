@@ -116,8 +116,8 @@ redirect_from:
     <div class="internship-date">2026.09 - Present</div>
     <div class="internship-body">
       <span>Baidu AI Cloud, Dumate Strategy Group, Beijing, China</span>
-      <img src="./images/logos/baidu.png" alt="Baidu logo">
       <img src="./images/logos/dumate-icon.png" alt="Dumate logo">
+      <img src="./images/logos/baidu.png" alt="Baidu logo">
     </div>
   </div>
   <div class="internship-item">
