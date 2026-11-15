@@ -88,21 +88,6 @@ redirect_from:
 </div>
 
 
-\\
-**Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
-- A role-aware framework for graph anomaly detection via dual-codebook vector quantization. 🛠️
-- Capturing heterogeneous anomaly patterns through discrete semantic and interaction roles. 🔍
-</div>
-</div>
-
-
-- [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
-  Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
-
-<!-- - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
-  Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li.  -->
-
-<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 <div class="internship-list">
