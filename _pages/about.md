@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <section class="home-hero" markdown="1">
-<p class="hero-lead">I am currently a third-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My previous work mainly focused on graph data mining, including graph neural networks and heterogeneous graph mining. I am currently exploring several directions around graph learning and large language models, including their integration, graph foundation models, and LLM applications in scientific research.</p>
+<p class="hero-lead">I am currently a third-year Ph.D. Student at the School of Data Science and Engineering, East China Normal University (ECNU), under the supervision of <a href="https://lixiang3776.github.io/">Prof. Xiang Li</a> in the PLANING lab. My research interests lie in graph learning and large language models (LLMs). My previous research focused on graph representation learning and graph foundation models. Recently, I have been particularly interested in LLM agents, including agent skills, adaptive routing, and harness evolution. I also explore the applications of graph learning and LLMs in scientific research and risk detection.</p>
 
 <!-- <p class="hero-lead">I am currently an intern at Baidu AI Cloud in the Agent Strategy Group in Beijing. Previously, I interned at Tencent WeChat in Guangzhou through the Tencent Rhinoceros-Bird Program, at Ant Group in Shanghai, and at Huawei's 2012 Labs (Advance Computing and Storage Lab) in Shanghai.</p> -->
 
@@ -52,8 +52,8 @@ redirect_from:
 - **LLM Agents & Harness:** agent skills [[MASA](https://arxiv.org/abs/2605.30723)], adaptive routing, harness evolution, agentic RL [[Skill0.5 (EMNLP’26)](https://arxiv.org/abs/2605.28424)]
 - **LLMs for Science:** automated peer review [[SEA (EMNLP’24)](https://arxiv.org/abs/2407.12857)], scientific knowledge retrieval [[SEAGraph (IJCNLP-AACL’25)](https://arxiv.org/abs/2412.11939)], research agents [[APEX (EMNLP’26)](https://arxiv.org/abs/2601.04794)]
 - **Graph Foundation Models:** graph pre-training and generalization [[REEF (NeurIPS’26)](https://arxiv.org/abs/2505.12027)], graph prompt learning [[RELIEF (KDD’25)](https://arxiv.org/abs/2408.03195), [Self-Pro (ECML-PKDD’24)](https://arxiv.org/abs/2310.10362v2)]
-- **Graph Learning & Mining:** heterogeneous graph contrastive learning [[MEOW (SDM’23)](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), [AdaMEOW (TKDE’24)](https://ieeexplore.ieee.org/abstract/document/10487103)], generative graph learning [[HQA-GAE (WWW’25)](https://dl.acm.org/doi/abs/10.1145/3696410.3714656), [GraMI (KDD’25)](https://arxiv.org/abs/2311.07929)], LLM-enhanced graph learning [[LLM4NG (AAAI’25)](https://arxiv.org/abs/2310.09872)]
-- **AI for Trust & Safety**: harmful content detection [[C²TU (EMNLP’26)](https://arxiv.org/abs/2505.22184)], graph anomaly detection [[N2NSC (EMNLP’26)](https://arxiv.org/abs/2606.30009)]
+- **Graph Learning & Mining:** LLM-enhanced graph learning [[LLM4NG (AAAI’25)](https://arxiv.org/abs/2310.09872)], heterogeneous graph contrastive learning [[MEOW (SDM’23)](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), [AdaMEOW (TKDE’24)](https://ieeexplore.ieee.org/abstract/document/10487103)], generative graph learning [[HQA-GAE (WWW’25)](https://dl.acm.org/doi/abs/10.1145/3696410.3714656), [GraMI (KDD’25)](https://arxiv.org/abs/2311.07929)]
+- **AI for Trust & Safety**: graph anomaly detection [[N2NSC (EMNLP’26)](https://arxiv.org/abs/2606.30009)], harmful content detection [[C²TU (EMNLP’26)](https://arxiv.org/abs/2505.22184)]
 
 
 
@@ -185,7 +185,7 @@ redirect_from:
 <div class="timeline-list services-list" markdown="1">
 I have served as a reviewer or program committee member for:
 
-- **Conferences:** ICLR'27, AAAI'27, NeurIPS'26, ICML'26, AAAI'26 (Main & AI Alignment), KDD'26 (Datasets & Benchmarks).
+- **Conferences:** ICML'27, ICLR'27, AAAI'27, NeurIPS'26, ICML'26, AAAI'26 (Main & AI Alignment), KDD'26 (Datasets & Benchmarks).
 
 - **Journals:** JAS, IEEE TKDE.
 
