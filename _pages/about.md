@@ -96,26 +96,6 @@ redirect_from:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<img src='../../images/publications/role_gad.png' alt="sym" width="98%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Role-GAD: Role-Aware Graph Anomaly Detection via Dual-Codebook Vector Quantization,]() &nbsp; 
-<!-- [![](https://img.shields.io/github/stars/jianxiangyu/MEOW?style=social&label=Code+Stars)](https://github.com/jianxiangyu/MEOW) &nbsp; <a href='https://www.bilibili.com/video/BV1uF4m1K7Zz/'><img src="https://img.shields.io/badge/Bilibili-AdaMEOW-blue?logo=bilibili&logoColor=white"></a> \\ -->
-\\
-**Jianxiang Yu\***, Bochen Lin\*, Shaofeng Hu, Lin Qi, Weijun Zeng, Huang Lu, Hailong Li, Jiacheng Ma, Xiang Li.
-- A role-aware framework for graph anomaly detection via dual-codebook vector quantization. 🛠️
-- Capturing heterogeneous anomaly patterns through discrete semantic and interaction roles. 🔍
-</div>
-</div>
-
-
-- [Improving Graph Out-of-distribution Generalization on Real-world Data,](https://arxiv.org/abs/2407.10204), <br>
-  Can Xu, Yao Cheng, **Jianxiang Yu**, Haoran Wang, Jun Lv, Xiang Li. 
-
-<!-- - [Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels,](https://arxiv.org/abs/2311.02116), <br>
-  Qingqing Ge, **Jianxiang Yu**, Zeyuan Zhao, Xiang Li.  -->
-
-<span class='anchor' id='internships'></span>
 
 # 💻 Internships
 <div class="internship-list">
