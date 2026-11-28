@@ -132,22 +132,14 @@ redirect_from:
 
 
 
-<span class='anchor' id='experience'></span>
+<!-- <span class='anchor' id='experience'></span>
 
 # 🌟 Experience
 <div class="timeline-list timeline-list--dated" markdown="1">
 - *2024.11* Attend EMNLP 2024 in Miami, USA.
 - *2024.10* Give a talk at EMNLP 2024 pre-presentation event organized by AI TIME.
-</div>
+</div> -->
 
-
-<span class='anchor' id='honors'></span>
-
-# 🎖 Honors and Awards
-<div class="timeline-list timeline-list--dated" markdown="1">
-- *2024.05* Outstanding Graduate, East China Normal University
-- *2023.11* Second Prize Enterprise Scholarship, School of Data Science and Engineering, East China Normal University
-</div>
 
 <span class='anchor' id='education'></span>
 
@@ -178,6 +170,16 @@ redirect_from:
     </div>
   </div>
 </div>
+
+<span class='anchor' id='honors'></span>
+
+# 🎖 Honors and Awards
+<div class="timeline-list timeline-list--dated" markdown="1">
+- *2024.05* Outstanding Graduate, East China Normal University
+- *2023.11* Second Prize Enterprise Scholarship, School of Data Science and Engineering, East China Normal University
+</div>
+
+
 
 <span class='anchor' id='services'></span>
 
