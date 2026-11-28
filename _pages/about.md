@@ -49,7 +49,7 @@ redirect_from:
 <!-- - **Graph Data Mining:** graph neural networks, heterogeneous graph mining -->
 <!-- - **Integration of GNNs and LLMs:** graph foundation models, graph prompt learning -->
 
-- **LLM Agents & Harness:** agent skills [[MASA](https://arxiv.org/abs/2605.30723)], adaptive routing, harness evolution, agentic RL [[Skill0.5 (EMNLP’26)](https://arxiv.org/abs/2605.28424)]
+- **LLM Agents & Harness:** agent skills [[MASA](https://arxiv.org/abs/2605.30723)], agentic RL [[Skill0.5 (EMNLP’26)](https://arxiv.org/abs/2605.28424)], adaptive routing, harness evolution
 - **LLMs for Science:** automated peer review [[SEA (EMNLP’24)](https://arxiv.org/abs/2407.12857)], scientific knowledge retrieval [[SEAGraph (IJCNLP-AACL’25)](https://arxiv.org/abs/2412.11939)], research agents [[APEX (EMNLP’26)](https://arxiv.org/abs/2601.04794)]
 - **Graph Foundation Models:** graph pre-training and generalization [[REEF (NeurIPS’26)](https://arxiv.org/abs/2505.12027)], graph prompt learning [[RELIEF (KDD’25)](https://arxiv.org/abs/2408.03195), [Self-Pro (ECML-PKDD’24)](https://arxiv.org/abs/2310.10362v2)]
 - **Graph Learning & Mining:** LLM-enhanced graph learning [[LLM4NG (AAAI’25)](https://arxiv.org/abs/2310.09872)], heterogeneous graph contrastive learning [[MEOW (SDM’23)](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch5), [AdaMEOW (TKDE’24)](https://ieeexplore.ieee.org/abstract/document/10487103)], generative graph learning [[HQA-GAE (WWW’25)](https://dl.acm.org/doi/abs/10.1145/3696410.3714656), [GraMI (KDD’25)](https://arxiv.org/abs/2311.07929)]
